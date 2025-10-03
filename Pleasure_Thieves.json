@@ -1,11 +1,11 @@
-{
-      "title": "Pleasure Thieves",
-      "uris": [
-        "magnet:?xt=urn:btih:204638cc2193ff8372d96003379ba835e2dfd22e&dn=PleasureThieves_Win.rar&xl=741485053&tr=https%3A%2F%2Fmxdrop.to%2Ff%2F0v7w797ma60n1m&ws=https://mxdrop.to/f/0v7w797ma60n1m"
-      ],
-      "uploadDate": "2005-12-08T17:02:00Z",
-      "fileSize": "707.14 MB",
-      "repackLinkSource": "https://mxdrop.to/f/0v7w797ma60n1m"
-   }
-  ]
-}
+[
+  {
+    "id": "pleasure-thieves-session",
+    "name": "Ladrões de Prazer (Session)",
+    "platform": "windows",
+    "version": "1.0",
+    "magnet": "magnet:?xt=urn:btih:<204638cc2193ff8372d96003379ba835e2dfd22e>&dn=PleasureThievesSession&tr=udp://tracker.openbittorrent.com:80/announce",
+    "size": "2.3 GB",
+    "description": "Release convertido para torrent/magnet a partir do link Pixeldrain."
+  }
+]
